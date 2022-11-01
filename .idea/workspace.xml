@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbfbc539-f6ad-4551-9488-21c2aa4b6b4e" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lecture01/Kadai13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="アプリケーション.Kadai12">
+  <component name="RunManager" selected="アプリケーション.Kadai13">
     <configuration name="Kadai11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture01.Kadai11" />
       <module name="prmn2022a" />
@@ -64,8 +65,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Kadai13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture01.Kadai13" />
+      <module name="prmn2022a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Kadai13" />
         <item itemvalue="アプリケーション.Kadai12" />
         <item itemvalue="アプリケーション.Kadai11" />
       </list>
@@ -83,6 +98,7 @@
       <workItem from="1667234142297" duration="228000" />
       <workItem from="1667235870269" duration="341000" />
       <workItem from="1667271142766" duration="978000" />
+      <workItem from="1667287929881" duration="974000" />
     </task>
     <servers />
   </component>
