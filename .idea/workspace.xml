@@ -39,13 +39,13 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="アプリケーション.Kadai15 (2)">
-    <configuration name="Kadai13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture01.Kadai13" />
+  <component name="RunManager" selected="アプリケーション.Exercise2_1">
+    <configuration name="Exercise2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture02.Exercise2_1" />
       <module name="prmn2022a" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture01.*" />
+          <option name="PATTERN" value="lecture02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kadai14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture01.Kadai14" />
+    <configuration name="Kadai12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture01.Kadai12" />
       <module name="prmn2022a" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Exercise2_1" />
+        <item itemvalue="アプリケーション.Kadai12" />
         <item itemvalue="アプリケーション.Kadai15 (2)" />
         <item itemvalue="アプリケーション.Kadai15 (1)" />
         <item itemvalue="アプリケーション.Kadai15" />
-        <item itemvalue="アプリケーション.Kadai14" />
-        <item itemvalue="アプリケーション.Kadai13" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,9 @@
       <workItem from="1667235870269" duration="341000" />
       <workItem from="1667271142766" duration="978000" />
       <workItem from="1667287929881" duration="5421000" />
-      <workItem from="1667294914162" duration="2907000" />
+      <workItem from="1667294914162" duration="4872000" />
+      <workItem from="1667555105123" duration="11000" />
+      <workItem from="1667628400360" duration="323000" />
     </task>
     <servers />
   </component>
