@@ -39,7 +39,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="アプリケーション.Exercise2_2">
+  <component name="RunManager" selected="アプリケーション.Exercise2_3">
     <configuration name="Exercise2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture02.Exercise2_1" />
       <module name="prmn2022a" />
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kadai12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture01.Kadai12" />
+    <configuration name="Exercise2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture02.Exercise2_3" />
       <module name="prmn2022a" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture01.*" />
+          <option name="PATTERN" value="lecture02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kadai15 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture01.Kadai15" />
+    <configuration name="Kadai12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture01.Kadai12" />
       <module name="prmn2022a" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Exercise2_3" />
         <item itemvalue="アプリケーション.Exercise2_2" />
         <item itemvalue="アプリケーション.Exercise2_1" />
         <item itemvalue="アプリケーション.Kadai12" />
         <item itemvalue="アプリケーション.Kadai15 (2)" />
-        <item itemvalue="アプリケーション.Kadai15 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,8 @@
       <workItem from="1667294914162" duration="4872000" />
       <workItem from="1667555105123" duration="11000" />
       <workItem from="1667628400360" duration="1679000" />
-      <workItem from="1667630102337" duration="302000" />
+      <workItem from="1667630102337" duration="3007000" />
+      <workItem from="1667653441078" duration="605000" />
     </task>
     <servers />
   </component>
