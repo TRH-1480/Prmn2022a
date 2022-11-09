@@ -39,46 +39,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="アプリケーション.Exercise3_1">
-    <configuration name="Exercise2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture02.Exercise2_1" />
-      <module name="prmn2022a" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture02.Exercise2_2" />
-      <module name="prmn2022a" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture02.Exercise2_3" />
-      <module name="prmn2022a" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="アプリケーション.Exercise3_2">
     <configuration name="Exercise3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture03.Exercise3_1" />
       <module name="prmn2022a" />
@@ -92,12 +53,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kadai12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture01.Kadai12" />
+    <configuration name="Exercise3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture03.Exercise3_2" />
       <module name="prmn2022a" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture01.*" />
+          <option name="PATTERN" value="lecture03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture03.Exercise3_3" />
+      <module name="prmn2022a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture03.Exercise3_4" />
+      <module name="prmn2022a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture03.a" />
+      <module name="prmn2022a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.Exercise3_2" />
+        <item itemvalue="アプリケーション.a" />
+        <item itemvalue="アプリケーション.Exercise3_4" />
+        <item itemvalue="アプリケーション.Exercise3_3" />
         <item itemvalue="アプリケーション.Exercise3_1" />
-        <item itemvalue="アプリケーション.Exercise2_2" />
-        <item itemvalue="アプリケーション.Exercise2_3" />
-        <item itemvalue="アプリケーション.Exercise2_1" />
-        <item itemvalue="アプリケーション.Kadai12" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +135,10 @@
       <workItem from="1667653441078" duration="892000" />
       <workItem from="1667887016780" duration="12000" />
       <workItem from="1667899765837" duration="3099000" />
+      <workItem from="1667902915482" duration="314000" />
+      <workItem from="1667916406802" duration="4062000" />
+      <workItem from="1667920510040" duration="2051000" />
+      <workItem from="1668000694056" duration="977000" />
     </task>
     <servers />
   </component>
