@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbfbc539-f6ad-4551-9488-21c2aa4b6b4e" name="変更" comment="" />
+    <list default="true" id="b40a56ed-0398-48d4-8a1a-4f90c1a002e4" name="変更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,36 +16,17 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2GuLVKtl2JD7TPvY2P7SqxTqVbA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Prmn2022a'&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
-  }
-}</component>
-  <component name="RunManager" selected="アプリケーション.Exercise4_1">
-    <configuration name="Exercise3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture03.Exercise3_2" />
+  <component name="RunManager" selected="アプリケーション.Excercise4_2">
+    <configuration name="Excercise4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture04.Excercise4_2" />
       <module name="prmn2022a" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture03.*" />
+          <option name="PATTERN" value="lecture04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,19 +36,6 @@
     </configuration>
     <configuration name="Exercise3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture03.Exercise3_3" />
-      <module name="prmn2022a" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture03.Exercise3_4" />
       <module name="prmn2022a" />
       <extension name="coverage">
         <pattern>
@@ -90,65 +60,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture03.a" />
-      <module name="prmn2022a" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.Exercise4_1" />
+        <item itemvalue="アプリケーション.Excercise4_2" />
         <item itemvalue="アプリケーション.Exercise3_3" />
-        <item itemvalue="アプリケーション.Exercise3_2" />
-        <item itemvalue="アプリケーション.a" />
-        <item itemvalue="アプリケーション.Exercise3_4" />
+        <item itemvalue="アプリケーション.Exercise4_1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="デフォルトタスク">
-      <changelist id="bbfbc539-f6ad-4551-9488-21c2aa4b6b4e" name="変更" comment="" />
-      <created>1667233546598</created>
+      <changelist id="b40a56ed-0398-48d4-8a1a-4f90c1a002e4" name="変更" comment="" />
+      <created>1668922494815</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667233546598</updated>
-      <workItem from="1667233548129" duration="483000" />
-      <workItem from="1667234142297" duration="228000" />
-      <workItem from="1667235870269" duration="341000" />
-      <workItem from="1667271142766" duration="978000" />
-      <workItem from="1667287929881" duration="5421000" />
-      <workItem from="1667294914162" duration="4872000" />
-      <workItem from="1667555105123" duration="11000" />
-      <workItem from="1667628400360" duration="1679000" />
-      <workItem from="1667630102337" duration="3007000" />
-      <workItem from="1667653441078" duration="892000" />
-      <workItem from="1667887016780" duration="12000" />
-      <workItem from="1667899765837" duration="3099000" />
-      <workItem from="1667902915482" duration="314000" />
-      <workItem from="1667916406802" duration="4062000" />
-      <workItem from="1667920510040" duration="2051000" />
-<<<<<<< HEAD
-      <workItem from="1668000694056" duration="1399000" />
-      <workItem from="1668002130679" duration="429000" />
-      <workItem from="1668002574587" duration="149000" />
-      <workItem from="1668232064815" duration="9000" />
-      <workItem from="1668504449177" duration="709000" />
-      <workItem from="1668777252390" duration="2143000" />
-      <workItem from="1668867968647" duration="9000" />
-      <workItem from="1668872636167" duration="3649000" />
-      <workItem from="1668876332272" duration="305000" />
-=======
-      <workItem from="1668000694056" duration="1284000" />
->>>>>>> 2d241a7f0f69393201f0eacd187d95580bd30e85
+      <updated>1668922494815</updated>
+      <workItem from="1668922498898" duration="7105000" />
     </task>
     <servers />
   </component>
