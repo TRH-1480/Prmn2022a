@@ -24,6 +24,10 @@ public class Exercise6_2 {
             System.out.println("Arraylistの範囲外アクセスを確認しました。");
             System.out.print("プログラムを終了します.");
         }
+        catch (InputMismatchException e){
+            System.out.println("整数以外の値が入力されました。");
+            System.out.print("プログラムを終了します.");
+        }
 
     }
 }
